@@ -27,4 +27,4 @@ MAX_TREE_DEPTH
 
 ## 3 Gamebord state 
 Models -> Gamebord state 
-utilityValue
+utilityValue 
